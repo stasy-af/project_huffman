@@ -1,0 +1,6 @@
+# ninja log v5
+0	696	7615083498551656	CMakeFiles/huffman.dir/main.cpp.obj	994d8e12fa276dbb
+5	733	7615083531387404	CMakeFiles/huffman.dir/main.cpp.obj	994d8e12fa276dbb
+8	726	7615083678102475	CMakeFiles/huffman.dir/main.cpp.obj	994d8e12fa276dbb
+3	1046	7615083681298081	CMakeFiles/huffman.dir/huffman_classes.cpp.obj	da413915337d678
+1046	1336	7615083684139884	huffman.exe	61b4ad6b54ad33c3
