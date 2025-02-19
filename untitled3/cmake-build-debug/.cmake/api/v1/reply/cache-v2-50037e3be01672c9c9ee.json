@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/\u043d\u0430\u0441\u0442\u044f/CLionProjects/untitled3/cmake-build-debug"
+			"value" : "c:/Users/\u043d\u0430\u0441\u0442\u044f/Project_uni/project_huffman/untitled3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/Project_uni/project_huffman/untitled3/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/CLionProjects/untitled3"
+			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/Project_uni/project_huffman/untitled3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/CLionProjects/untitled3/cmake-build-debug"
+			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/Project_uni/project_huffman/untitled3/cmake-build-debug"
 		},
 		{
 			"name" : "untitled3_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/CLionProjects/untitled3"
+			"value" : "C:/Users/\u043d\u0430\u0441\u0442\u044f/Project_uni/project_huffman/untitled3"
 		}
 	],
 	"kind" : "cache",
